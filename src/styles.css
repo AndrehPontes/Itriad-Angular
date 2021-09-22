@@ -92,3 +92,15 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+/* Customização do css André Pontes*/
+
+.bg-dark {
+  background-color: #624695 !important;
+}
+
+.btn-secondary {
+  background-color:#624695 !important;
+}
+
